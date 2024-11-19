@@ -1,0 +1,6 @@
+document.type,document.copies,document.id,document.subject,document.category,document.receiveDate,fileNumber,id,status,createdDate,name,lineOfBusiness
+efolder,1,{DEC9BA7A-9B17-4621-9A4A-79198095EBF4},BVA NOTIFICATION LETTER,Board of Veterans' Appeals (BVA) Letter,2020-02-12T00:00:00,00139657,9df5eae6-8984-4e1e-8099-ef126623fa82,NEW,2020-02-12T11:23:50.895,00139657,
+efolder,1,{89437E0C-10AB-4856-B714-297C8C76E28F},BVA Hearing Notification 11-7-22,Hearing Related ,2022-08-26T00:00:00,00139657,10d9daee-1c72-4c27-8e7e-82f94e31e902,FINALIZED,2022-08-26T19:30:27.31,BVA Notification Letter,
+efolder,1,{89437E0C-10AB-4856-B714-297C8C76E28F},BVA Hearing Notification 11-7-22,Hearing Related ,2022-08-26T00:00:00,00139657,aaf18f06-f11c-45fa-8d1f-ccb18660bdd7,FINALIZED,2022-08-26T20:32:52.509,BVA Notification Letter 11-7-22,
+efolder,1,{1A6417DF-A103-431D-906E-F92330A099A4},Virtual Hearing Scheduling Letter,Hearing Related ,2023-03-17T00:00:00,00139657,3580c03b-6037-4c69-a526-6e2e80864816,FINALIZED,2023-03-17T14:07:41.694,Hearing Notification Letter,
+efolder,1,{FD3534D9-4ED2-4194-A1B3-683B1206EF27},Virtual Hearing Scheduling Letter,Hearing Related ,2023-05-05T00:00:00,00139657,02983797-51b0-427a-8a47-1dce7fe57964,FINALIZED,2023-05-05T11:17:16.754,Hearing Notification Letter,
